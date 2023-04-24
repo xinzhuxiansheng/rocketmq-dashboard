@@ -1,3 +1,9 @@
+## yzhou_master_495 分支
+因仓库的master分支将RocketMQ版本升级到5.1.0后，当RocketMQ Broker集群为4.9.5, 会导致Topic页面操作出现不兼容，现在将原master分支回退到 `86bdb0636494bc23751f5df90fdb56a87b928ca7` commit。
+
+固fork到自己仓库进行单独维护， 因为该项目确实年代久远，且PR不多等， 只好自己维护
+
+
 ## [Apache RocketMQ](https://github.com/apache/rocketmq) Dashboard 
 [![Build Status](https://api.travis-ci.com/apache/rocketmq-dashboard.svg?branch=master)](https://travis-ci.com/github/apache/rocketmq-dashboard) [![Coverage Status](https://coveralls.io/repos/github/apache/rocketmq-dashboard/badge.svg?branch=master)](https://coveralls.io/github/apache/rocketmq-dashboard?branch=master)
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
