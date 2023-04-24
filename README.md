@@ -1,5 +1,5 @@
-## yzhou_master_495 分支
-因仓库的master分支将RocketMQ版本升级到5.1.0后，当RocketMQ Broker集群为4.9.5, 会导致Topic页面操作出现不兼容，现在将原master分支回退到 `86bdb0636494bc23751f5df90fdb56a87b928ca7` commit。
+## yzhou_master_493 分支
+因仓库的master分支将RocketMQ版本升级到5.1.0后，当RocketMQ Broker集群为4.9.5, 会导致Topic页面操作出现不兼容，现在将原master分支回退到 `86bdb0636494bc23751f5df90fdb56a87b928ca7` commit(当时RocketMQ版本为4.9.3)。
 
 固fork到自己仓库进行单独维护， 因为该项目确实年代久远，且PR不多等， 只好自己维护
 
