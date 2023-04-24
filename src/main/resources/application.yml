@@ -48,7 +48,7 @@ rocketmq:
     # timeout for mqadminExt, default 5000ms
     timeoutMillis:
     # rocketmq-console's data path:dashboard/monitor
-    dataPath: /tmp/rocketmq-console/data
+    dataPath: E:\\RocketMQData\\rocketmq-console-495\\data
     # set it false if you don't want use dashboard.default true
     enableDashBoardCollect: true
     # set the message track trace topic if you don't want use the default one
